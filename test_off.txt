@@ -1,1 +1,4 @@
-yes|http://www.kompas.com/
+{
+  "enabled" : YES,
+  "url"     :"http://www.kompas.com/"
+}

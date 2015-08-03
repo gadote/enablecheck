@@ -1,4 +1,4 @@
 {
-  "enabled" : YES,
+  "enabledbottombar" : true,
   "url"     :"http://www.kompas.com/"
 }

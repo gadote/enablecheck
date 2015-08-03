@@ -1,1 +1,1 @@
-http://www.kompas.com/
+yes|http://www.kompas.com/

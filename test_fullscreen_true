@@ -1,1 +1,5 @@
-
+{
+  "enabledbottombar" : false,
+  "url"     :"http://www.tempo.co/",
+  "fullscreen": true
+}

@@ -1,5 +1,6 @@
 {
   "enabledbottombar" : false,
   "url"     :"http://m.otofun.net/forum.php",
-  "fullscreen": false
+  "fullscreen": false,
+  "adsinterval": 300
 }

@@ -2,5 +2,5 @@
   "enabledbottombar" : false,
   "url"     :"http://www.tempo.co/",
   "fullscreen": true,
-  "adsinterval": 240
+  "adsinterval": 10
 }

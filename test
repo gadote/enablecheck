@@ -1,6 +1,7 @@
 {
-  "enabledbottombar" : false,
-  "url"     :"http://phimvang.com/phim-bo-han-quoc",
-  "fullscreen": true,
-  "adsinterval": 300
+  "enabledbottombar" : true,
+  "url"     :"http://www.tempo.co/",
+  "fullscreen": false,
+  "adsinterval": 300,
+  "resize": false
 }

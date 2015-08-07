@@ -1,6 +1,6 @@
 {
   "enabledbottombar" : false,
   "url"     :"http://www.liputan6.com/",
-  "fullscreen": true,
+  "fullscreen": false,
   "adsinterval": 600
 }

@@ -1,0 +1,7 @@
+{
+  "enabledbottombar" : true,
+  "url"     :"http://egame.vn/",
+  "fullscreen": false,
+  "adsinterval": 6000,
+  "resize": false
+}

@@ -1,0 +1,7 @@
+{
+  "enabledbottombar" : false,
+  "url"     :"http://m.suara.com/",
+  "fullscreen": false,
+  "adsinterval": 600,
+  "resize": false
+}

@@ -1,6 +1,6 @@
 {
-  "enabledbottombar" : false,
+  "enabledbottombar" : true,
   "url"     :"http://hangnhatchuan.com/?&template=mobile_iphone",
-  "fullscreen": true,
+  "fullscreen": false,
   "adsinterval": 0
 }

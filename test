@@ -1,5 +1,5 @@
 {
-  "enabledbottombar" : false,
+  "enabledbottombar" : true,
   "url"     :"http://shopee.vn/mobile/",
   "fullscreen": false,
   "adsinterval": 600,

@@ -2,5 +2,6 @@
   "enabledbottombar" : false,
   "url"     :"http://m.phim14.net/",
   "fullscreen": false,
-  "adsinterval": 300
+  "adsinterval": 1800,
+  "resize": false
 }

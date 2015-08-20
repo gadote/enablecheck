@@ -1,6 +1,6 @@
 {
-  "enabledbottombar" : false,
-  "url"     :"http://m.moveek.com/",
+  "enabledbottombar" : true,
+  "url"     :"http://www.phimmoi.net/",
   "fullscreen": false,
   "adsinterval": 1800
 }

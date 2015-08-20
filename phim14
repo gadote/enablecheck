@@ -1,5 +1,5 @@
 {
-  "enabledbottombar" : false,
+  "enabledbottombar" : true,
   "url"     :"http://m.phim14.net/",
   "fullscreen": false,
   "adsinterval": 1800,

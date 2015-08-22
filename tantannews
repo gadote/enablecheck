@@ -1,5 +1,5 @@
 {
-  "enabledbottombar" : false,
+  "enabledbottombar" : true,
   "url"     :"http://tantannews.com/",
   "fullscreen": false,
   "adsinterval": 600

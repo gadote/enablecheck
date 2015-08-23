@@ -1,0 +1,7 @@
+{
+  "enabledbottombar" : false,
+  "url"     :"http://www.komikstation.com/",
+  "fullscreen": false,
+  "adsinterval": 600,
+  "resize": false
+}

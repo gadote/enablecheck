@@ -2,5 +2,5 @@
   "enabledbottombar" : false,
   "url"     :"http://cungchoi.vn/",
   "fullscreen": true,
-  "adsinterval": 0
+  "adsinterval": 600
 }

@@ -1,5 +1,5 @@
 {
-  "inputurl": false,
+  "inputurl": true,
   "enabledbottombar" : false,
   "url"     :"http://m.kenh14.vn",
   "fullscreen": false,

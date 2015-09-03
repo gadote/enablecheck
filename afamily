@@ -2,6 +2,6 @@
   "enabledbottombar" : true,
   "url"     :"http://m.afamily.vn/",
   "fullscreen": false,
-  "adsinterval": 600,
+  "adsinterval": 1800,
   "resize": false
 }

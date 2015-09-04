@@ -1,7 +1,7 @@
 {
   "enabledbottombar" : false,
-  "url"     :"http://m.vidio.com/",
+  "url"     :"http://www.kapanlagi.com/",
   "fullscreen": false,
-  "adsinterval": 600,
+  "adsinterval": 0,
   "resize": false
 }

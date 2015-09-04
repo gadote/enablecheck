@@ -1,7 +1,7 @@
 {
-  "enabledbottombar" : false,
-  "url"     :"http://g.smartmovevn.choiluon.net/40163-meo-tinh-nghich/",
+  "enabledbottombar" : true,
+  "url"     :"http://hipstore.mobi",
   "fullscreen": false,
-  "adsinterval": 600,
+  "adsinterval": 1200,
   "resize": false
 }

@@ -1,7 +1,7 @@
 {
   "enabledbottombar" : false,
-  "url"     :"http://m.kapanlagi.com/",
+  "url"     :"http://www.filmnasional.com/",
   "fullscreen": false,
-  "adsinterval": 0,
+  "adsinterval": 600,
   "resize": false
 }

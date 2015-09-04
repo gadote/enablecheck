@@ -1,7 +1,7 @@
 {
   "enabledbottombar" : false,
-  "url"     :"http://g.smartmovevn.choiluon.net/40056-tang-bong/",
+  "url"     :"http://clay.io/play",
   "fullscreen": true,
-  "adsinterval": 600,
+  "adsinterval": 1800,
   "resize": false
 }

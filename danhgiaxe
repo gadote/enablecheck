@@ -1,5 +1,5 @@
 {
-  "enabledbottombar" : false,
+  "enabledbottombar" : true,
   "url"     :"http://m.danhgiaxe.com/",
   "fullscreen": false,
   "adsinterval": 1800

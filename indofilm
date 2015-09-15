@@ -1,7 +1,7 @@
 {
-  "enabledbottombar" : false,
-  "url"     :"http://m.bintang.com/",
+  "enabledbottombar" : true,
+  "url"     :"http://www.nonton.mobi/",
   "fullscreen": false,
-  "adsinterval": 600,
+  "adsinterval": 3000,
   "resize": false
 }

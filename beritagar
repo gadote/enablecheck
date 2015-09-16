@@ -1,0 +1,7 @@
+{
+  "enabledbottombar" : false,
+  "url"     :"http://beritagar.id/",
+  "fullscreen": false,
+  "adsinterval": 1800,
+  "resize": false
+}

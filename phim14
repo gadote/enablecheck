@@ -1,7 +1,7 @@
 {
   "enabledbottombar" : false,
-  "url"     :"http://m.phim14.net/",
+  "url"     :"http://moveek.com/",
   "fullscreen": false,
-  "adsinterval": 1800,
+  "adsinterval": 0,
   "resize": false
 }

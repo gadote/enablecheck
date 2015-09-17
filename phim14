@@ -2,6 +2,6 @@
   "enabledbottombar" : false,
   "url"     :"http://moveek.com/",
   "fullscreen": false,
-  "adsinterval": 3000,
+  "adsinterval": 0,
   "resize": false
 }

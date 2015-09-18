@@ -1,5 +1,5 @@
 {
-  "inputurl": true,
+  "inputurl": false,
   "enabledbottombar" : false,
   "url"     :"http://m.netlife.vn/",
   "fullscreen": false,

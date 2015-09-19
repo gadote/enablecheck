@@ -1,5 +1,5 @@
 {
-  "enabledbottombar" : false,
+  "enabledbottombar" : true,
   "url"     :"http://www.duniaku.net/",
   "fullscreen": false,
   "adsinterval": 1800,

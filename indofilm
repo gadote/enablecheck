@@ -2,6 +2,6 @@
   "enabledbottombar" : true,
   "url"     :"http://nontonfilm.id/",
   "fullscreen": false,
-  "adsinterval": 3000,
+  "adsinterval": 2400,
   "resize": false
 }

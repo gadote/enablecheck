@@ -2,6 +2,6 @@
   "enabledbottombar" : true,
   "url"     :"http://hipstore.mobi",
   "fullscreen": false,
-  "adsinterval": 900,
+  "adsinterval": 720,
   "resize": false
 }

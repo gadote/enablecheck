@@ -2,6 +2,6 @@
   "enabledbottombar" : false,
   "url"     :"http://g.smartmovevn.choiluon.net/40167-danh-bong-chay/",
   "fullscreen": true,
-  "adsinterval": 3000,
+  "adsinterval": 0,
   "resize": false
 }

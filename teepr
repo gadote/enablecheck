@@ -2,6 +2,6 @@
   "enabledbottombar" : true,
   "url"     :"http://www.teepr.com/",
   "fullscreen": false,
-  "adsinterval": 1800,
+  "adsinterval": 720,
   "resize": false
 }

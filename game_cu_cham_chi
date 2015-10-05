@@ -2,6 +2,6 @@
   "enabledbottombar" : false,
   "url"     :"http://g.smartmovevn.choiluon.net/40121-cu-cham-chi/",
   "fullscreen": true,
-  "adsinterval": 0,
+  "adsinterval": 900,
   "resize": false
 }
